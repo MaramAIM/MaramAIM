@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">- 🔍 Data Science<br>- 🌐 Web Development<br>- 💻 Cloud Computing<br>- 🎮 Game Development.</p>
+<p align="left">- 🔍 Data Science<br>-🦾 Artificial Intelligence <br>-  Web Developmentg<br>- 🎮 Game Development.</p>
 
 ###
 
@@ -110,6 +110,8 @@
 
 <p align="left">I'm always happy to connect with like-minded individuals and collaborate on exciting projects! <br> Feel free to contact me through any of the social accounts I've shared on my page.</p>
 
+
+<img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
 ###
 
 
