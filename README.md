@@ -91,8 +91,8 @@
 
 <p align="left">I'm always happy to connect with like-minded individuals and collaborate on exciting projects! <br> Feel free to contact me through any of the social accounts I've shared on my page.</p>
 
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif">
 
-<img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
 
 
 
