@@ -94,7 +94,6 @@
 
 <h2 align="left">Connect with Me 😊</h2>
 
-###
 
 <p align="left">I'm always happy to connect with like-minded individuals and collaborate on exciting projects! <br> Feel free to contact me through any of the social accounts I've shared on my page.</p>
 
