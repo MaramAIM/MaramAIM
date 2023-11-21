@@ -2,10 +2,6 @@
 <h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 
-
-[![](https://visitcount.itsvg.in/api?id=0xarwa&icon=0&color=0)](https://visitcount.itsvg.in)
-<h2 align="left">About me</h2>
-
 ###
 
 <p align="left">- 👉 I'm Maram, a Data Scientist in the making </p>
