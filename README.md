@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- 👉 I'm Maram, a Data Scientist in the making </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
+<p align="left">- 👉 I'm Maram, a Data Scientist in the making </p>
 
 ###
 
