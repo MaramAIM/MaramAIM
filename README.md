@@ -94,6 +94,8 @@
 
 <h2 align="left">Connect with Me 😊</h2>
 
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.linkedin.com/in/maram-alzahrani-60b680229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" />](https://eg.linkedin.com/in/pythondeveloper6)
+<br />
 
 <p align="left">I'm always happy to connect with like-minded individuals and collaborate on exciting projects! <br> Feel free to contact me through any of the social accounts I've shared on my page.</p>
 
