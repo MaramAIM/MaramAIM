@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔍 Data Science<br>-🦾 Artificial Intelligence <br>- 🌐 Web Developmentg<br>- 🎮 Game Development.</p>
+<p align="left">- 🔍 Data Science<br>- 🦾 Artificial Intelligence <br>- 🌐 Web Developmentg<br>- 🎮 Game Development.</p>
 
 ###
 
