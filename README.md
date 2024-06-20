@@ -72,9 +72,7 @@
 
 <p align="left">I'm always happy to connect with like-minded individuals and collaborate on exciting projects! <br> Feel free to contact me through any of the social accounts I've shared on my page.</p>
 
-<div style="text-align:center;">
-  <img alt="Coding" width="600" src="https://media3.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47fovp4h1gjir96xswr7ri2vafheyxyg7q636haj7d&rid=giphy.gif&ct=g">
-</div>
+
 
 
 
